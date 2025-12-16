@@ -1,1 +1,13 @@
+.main-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
 
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
